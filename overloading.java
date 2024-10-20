@@ -1,4 +1,4 @@
-public class show{
+class show{
     int n;
     String h ;
 
